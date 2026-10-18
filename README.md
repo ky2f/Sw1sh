@@ -2,7 +2,7 @@
 <p align="center">
   <strong>A Swish inspired prop app for movies, demos, and other stuff 👀</strong>
   <br>
-  <em>Unofficial project • Two platforms • Community driven</em>
+  <em>Unofficial project • Two platforms • Community driven, (Send Features or Bugs in the Issues channel)</em>
 </p>
 
 ---

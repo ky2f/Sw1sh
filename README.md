@@ -1,7 +1,5 @@
 # Sw1sh
 
-# Sw1sh
-
 <p align="center">
   <strong>A Swish inspired prop app for movies, demos, and other stuff 👀</strong>
   <br>

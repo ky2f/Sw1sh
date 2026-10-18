@@ -1,28 +1,33 @@
-# <span style="color:#A855F7">Sw1sh</span>
+# Sw1sh
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sw1sh-Prop%20App-A855F7?style=for-the-badge" alt="Sw1sh">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090b,50:6d28d9,100:a855f7&text=Sw1sh&fontColor=ffffff&fontSize=75&fontAlignY=45&animation=fadeIn&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Sw1sh animated header">
+</p>
+
+<p align="center">
+  <strong>A Swish inspired prop app for movies, demos, and other stuff.</strong>
   <br><br>
-  <strong>A Swish inspired prop app for movies, demos, and other stuff 👀</strong>
-  <br>
-  <em>Unofficial project • Two platforms • Community driven</em>
+  <img src="https://img.shields.io/badge/PLATFORM-iOS%20%7C%20ANDROID-8b5cf6?style=for-the-badge" alt="Platforms">
+  <img src="https://img.shields.io/badge/STATUS-In%20Development-a855f7?style=for-the-badge" alt="Development status">
   <br><br>
-  <a href="https://github.com/Sw1sh"><img src="https://img.shields.io/badge/Features%20%26%20Bugs-Open%20an%20Issue-A855F7?style=flat-square" alt="Features and bugs"></a>
+  <a href="../../issues">Report a bug</a> · <a href="../../issues">Request a feature</a>
 </p>
 
 ---
 
-<h2 align="center">📦 Available Versions</h2>
+## <img src="https://img.shields.io/badge/01-Downloads-8b5cf6?style=flat-square" alt="01 Downloads">
 
-<p align="center">Sw1sh is available for both iOS and Android.</p>
+Sw1sh is available in two versions.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🍎 iOS <code>.IPA</code></h3>
+<h3>🍎 iOS</h3>
 
-Install using a compatible sideloading tool:
+<img src="https://img.shields.io/badge/FILE-.IPA-8b5cf6?style=flat-square" alt="IPA file">
+
+Install using a compatible sideloading tool.
 
 - [TrollStore](https://github.com/opa334/TrollStore)
 - [Sideloadly](https://sideloadly.io/)
@@ -32,15 +37,15 @@ Install using a compatible sideloading tool:
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 Android <code>.APK</code></h3>
+<h3>🤖 Android</h3>
 
-Installing on Android is simple:
+<img src="https://img.shields.io/badge/FILE-.APK-a855f7?style=flat-square" alt="APK file">
 
-1. Download the `.APK` file.
+1. Download the `.APK`.
 2. Open your file manager.
 3. Tap the file and follow the installation prompts.
 
-You may need to allow your file manager to install apps.
+You may need to allow installations from your file manager.
 
 </td>
 </tr>
@@ -48,28 +53,19 @@ You may need to allow your file manager to install apps.
 
 ---
 
-<h2 align="center">🛠️ About</h2>
+## <img src="https://img.shields.io/badge/02-About-8b5cf6?style=flat-square" alt="02 About">
 
-The original Android APK comes from **FoeXploit**. I've modified the APK and adapted it into an iOS `.IPA` version, making Sw1sh available on both platforms.
+The original Android APK comes from **FoeXploit**. I've modified the APK and adapted it into an iOS `.IPA` version, bringing Sw1sh to both platforms.
 
----
+## <img src="https://img.shields.io/badge/03-Updates-a855f7?style=flat-square" alt="03 Updates">
 
-<h2 align="center">🔄 Updates</h2>
+<img src="https://img.shields.io/badge/Target%20Schedule-1%E2%80%932%20weeks-8b5cf6?style=for-the-badge" alt="Target update schedule">
 
-<img src="https://img.shields.io/badge/Update%20Schedule-1%E2%80%932%20Weeks-A855F7?style=flat-square" alt="Update schedule">
-
-Sw1sh will receive updates periodically, with a target of approximately **every 1 to 2 weeks**, depending on development progress.
-
-Don't expect updates every couple of days. Updates will come when they're ready.
+Updates are planned approximately every **1–2 weeks**, depending on development progress. No promises of constant updates; releases will come when they're ready.
 
 ---
 
-<h2 align="center">⚠️ Disclaimer</h2>
+## <img src="https://img.shields.io/badge/04-Disclaimer-8b5cf6?style=flat-square" alt="04 Disclaimer">
 
 Sw1sh is an unofficial modified project and is not affiliated with or endorsed by the original Swish developers or FoeXploit.
 
----
-
-<p align="center">
-  <sub>Made with 💜 • Sw1sh</sub>
-</p>

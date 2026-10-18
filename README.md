@@ -1,23 +1,35 @@
-# Sw1sh
-
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090b,50:6d28d9,100:a855f7&text=Sw1sh&fontColor=ffffff&fontSize=75&fontAlignY=45&animation=fadeIn&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Sw1sh animated header">
 </p>
 
 <p align="center">
-  <strong>A Swish inspired prop app for movies, demos, and other stuff.</strong>
+  <strong>A Swish-inspired prop app for movies, demos, and other stuff.</strong>
   <br><br>
   <img src="https://img.shields.io/badge/PLATFORM-iOS%20%7C%20ANDROID-8b5cf6?style=for-the-badge" alt="Platforms">
-  <img src="https://img.shields.io/badge/STATUS-In%20Development-a855f7?style=for-the-badge" alt="Development status">
+  <img src="https://img.shields.io/badge/STATUS-Community%20Project-a855f7?style=for-the-badge" alt="Project status">
   <br><br>
-  <a href="../../issues">Report a bug</a> · <a href="../../issues">Request a feature</a>
+  <a href="https://github.com/ky2f/Sw1sh/issues">🐛 Report a bug</a>
+  ·
+  <a href="https://github.com/ky2f/Sw1sh/issues">💡 Request a feature</a>
 </p>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-Downloads-8b5cf6?style=flat-square" alt="01 Downloads">
+## 📱 Screenshots
 
-Sw1sh is available in two versions.
+<p align="center">
+  <img src="Screenshot.png" width="280" alt="Sw1sh running on iOS">
+</p>
+
+<p align="center">
+  <sub>iOS preview</sub>
+</p>
+
+---
+
+## 📦 Available Versions
+
+Sw1sh is available for iOS and Android.
 
 <table>
 <tr>
@@ -25,9 +37,9 @@ Sw1sh is available in two versions.
 
 <h3>🍎 iOS</h3>
 
-<img src="https://img.shields.io/badge/FILE-.IPA-8b5cf6?style=flat-square" alt="IPA file">
+<img src="https://img.shields.io/badge/FORMAT-.IPA-8b5cf6?style=flat-square" alt="IPA format">
 
-Install using a compatible sideloading tool.
+Install using a compatible sideloading tool:
 
 - [TrollStore](https://github.com/opa334/TrollStore)
 - [Sideloadly](https://sideloadly.io/)
@@ -39,13 +51,13 @@ Install using a compatible sideloading tool.
 
 <h3>🤖 Android</h3>
 
-<img src="https://img.shields.io/badge/FILE-.APK-a855f7?style=flat-square" alt="APK file">
+<img src="https://img.shields.io/badge/FORMAT-.APK-a855f7?style=flat-square" alt="APK format">
 
-1. Download the `.APK`.
+1. Download the `.APK` file.
 2. Open your file manager.
 3. Tap the file and follow the installation prompts.
 
-You may need to allow installations from your file manager.
+You may need to allow your file manager to install apps.
 
 </td>
 </tr>
@@ -53,19 +65,23 @@ You may need to allow installations from your file manager.
 
 ---
 
-## <img src="https://img.shields.io/badge/02-About-8b5cf6?style=flat-square" alt="02 About">
+## 🛠️ About
 
-The original Android APK comes from **FoeXploit**. I've modified the APK and adapted it into an iOS `.IPA` version, bringing Sw1sh to both platforms.
+The original Android APK comes from **FoeXploit**. I've modified the APK and adapted it into an iOS `.IPA` version, making Sw1sh available on both platforms.
 
-## <img src="https://img.shields.io/badge/03-Updates-a855f7?style=flat-square" alt="03 Updates">
-
-<img src="https://img.shields.io/badge/Target%20Schedule-1%E2%80%932%20weeks-8b5cf6?style=for-the-badge" alt="Target update schedule">
-
-Updates are planned approximately every **1–2 weeks**, depending on development progress. No promises of constant updates; releases will come when they're ready.
+This is an unofficial community project.
 
 ---
 
-## <img src="https://img.shields.io/badge/04-Disclaimer-8b5cf6?style=flat-square" alt="04 Disclaimer">
+## 🔄 Updates
 
-Sw1sh is an unofficial modified project and is not affiliated with or endorsed by the original Swish developers or FoeXploit.
+<img src="https://img.shields.io/badge/PLANNED%20INTERVAL-1%E2%80%932%20weeks-8b5cf6?style=for-the-badge" alt="Planned update interval">
+
+Updates are planned approximately every **1–2 weeks**, depending on development progress. This is a target, not a guarantee. Releases will be published when they're ready.
+
+---
+
+## ⚠️ Disclaimer
+
+Sw1sh is an unofficial modified project. It is not affiliated with or endorsed by the original Swish developers or FoeXploit.
 

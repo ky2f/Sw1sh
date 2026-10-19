@@ -83,6 +83,7 @@ Sw1sh is now available in HTML format, allowing you to use the web version throu
 1. Download the HTML file.
 2. Open it in your browser.
 3. Start using the web version.
+4. (Or use a HTML Viewer app from ur app store)
 
 <a href="https://github.com/ky2f/Sw1sh/releases/tag/v1.0">Get the release →</a>
 

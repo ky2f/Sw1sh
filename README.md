@@ -5,8 +5,10 @@
 <p align="center">
   <strong>A Swish-inspired prop app for movies, demos, and other stuff.</strong>
   <br><br>
-  <img src="https://img.shields.io/badge/PLATFORM-iOS%20%7C%20ANDROID-8b5cf6?style=for-the-badge" alt="Platforms">
+  <img src="https://img.shields.io/badge/PLATFORMS-iOS%20%7C%20ANDROID%20%7C%20HTML-8b5cf6?style=for-the-badge" alt="Available platforms">
   <img src="https://img.shields.io/badge/STATUS-Community%20Project-a855f7?style=for-the-badge" alt="Project status">
+  <br><br>
+  <a href="https://github.com/ky2f/Sw1sh/releases/tag/v1.0">⬇️ Download Sw1sh</a>
   <br><br>
   <a href="https://github.com/ky2f/Sw1sh/issues">🐛 Report a bug</a>
   ·
@@ -29,11 +31,17 @@
 
 ## 📦 Available Versions
 
-Sw1sh is available for iOS and Android.
+Sw1sh is now available in **three formats: iOS, Android, and HTML!**
+
+<p align="center">
+  <a href="https://github.com/ky2f/Sw1sh/releases/tag/v1.0">
+    <img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-8b5cf6?style=for-the-badge" alt="Download latest release">
+  </a>
+</p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3>🍎 iOS</h3>
 
@@ -46,18 +54,37 @@ Install using a compatible sideloading tool:
 - [AltStore](https://altstore.io/)
 - Other compatible sideloaders
 
+<a href="https://github.com/ky2f/Sw1sh/releases/tag/v1.0">Get the release →</a>
+
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3>🤖 Android</h3>
 
 <img src="https://img.shields.io/badge/FORMAT-.APK-a855f7?style=flat-square" alt="APK format">
 
-1. Download the `.APK` file.
+1. Download the APK.
 2. Open your file manager.
 3. Tap the file and follow the installation prompts.
 
-You may need to allow your file manager to install apps.
+You may need to allow installations from your file manager.
+
+<a href="https://github.com/ky2f/Sw1sh/releases/tag/v1.0">Get the release →</a>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>🌐 HTML</h3>
+
+<img src="https://img.shields.io/badge/FORMAT-.HTML-8b5cf6?style=flat-square" alt="HTML format">
+
+Sw1sh is now available in HTML format, allowing you to use the web version through a compatible browser.
+
+1. Download the HTML file.
+2. Open it in your browser.
+3. Start using the web version.
+
+<a href="https://github.com/ky2f/Sw1sh/releases/tag/v1.0">Get the release →</a>
 
 </td>
 </tr>
@@ -67,7 +94,7 @@ You may need to allow your file manager to install apps.
 
 ## 🛠️ About
 
-The original Android APK comes from **FoeXploit**. I've modified the APK and adapted it into an iOS `.IPA` version, making Sw1sh available on both platforms.
+The original Android APK comes from **FoeXploit**. I've modified the APK and adapted it into an iOS `.IPA` version. Sw1sh is now also available in HTML format.
 
 This is an unofficial community project.
 
